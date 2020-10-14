@@ -4,7 +4,7 @@ This is a machine learning/neural network model that is used to predict the like
 State Farm Distracted Driver Detection Kaggle
 (https://www.kaggle.com/c/state-farm-distracted-driver-detection/data)
 ## Classes
-Predicting the below classes based on hat the driver is doing in picture : <br />
+Predicting the below classes based on what the driver is doing in picture : <br />
 • Safe driving <br />
 • Texting - right <br />
 • Talking on the phone - right <br />

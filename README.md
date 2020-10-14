@@ -15,7 +15,8 @@ Predicting the below classes based on hat the driver is doing in picture : <br /
 • Reaching behind <br />
 • Hair and makeup <br />
 • Talking to passenger <br />
-### Algorithm used : Deep Learning - Convolutional Neural Networks
+## Algorithm used : 
+Deep Learning - Convolutional Neural Networks
 ## Technology used : 
 Python,Pandas,Sklearn,Keras
 

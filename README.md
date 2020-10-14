@@ -14,7 +14,6 @@ State Farm Distracted Driver Detection Kaggle
 • Reaching behind <br />
 • Hair and makeup <br />
 • Talking to passenger <br />
-### Accuracy of this model : 67.27%
 ### Algorithm used : Deep Learning - Convolutional Neural Networks
 ## Technology used : 
 Python,Pandas,Sklearn,Keras
